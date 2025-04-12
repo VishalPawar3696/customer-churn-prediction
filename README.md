@@ -36,7 +36,7 @@ plotly.express.imshow(corr_matrix)  # Interactive heatmap
 ⚙️ Installation
 
 # Clone repository
-git clone https://github.com/your-username/customer-churn-prediction.git
+git clone https://github.com/VishalPawar3696/customer-churn-prediction.git
 
 # Install dependencies
 pip install -r requirements.txt
@@ -56,7 +56,7 @@ streamlit run app.py
 📊 Model Performance Metrics
 
 
-Metric	  SVC (Selected)	Logistic Regression	Decision Tree Accuracy	0.885	          0.875	               0.855Accuracy	0.885	          0.875	               0.855
+Metric	  SVC (Selected)	Logistic Regression	Decision Tree
 Accuracy	0.885	          0.875	               0.855
 Accuracy	0.885	          0.875	               0.855
 F1-Score	0.939         	0.938	                0.918
