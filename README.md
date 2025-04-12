@@ -2,6 +2,8 @@
 # 🚀 Customer Churn Prediction Dashboard
 
 [![Open in Streamlit]([https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://your-app.streamlit.app](https://customer-churn-prediction-hackathon-ldij34jss6ya74h5g8lhwq.streamlit.app/))
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://customer-churn-prediction-hackathon-ldij34jss6ya74h5g8lhwq.streamlit.app/)
+
 ![Python](https://img.shields.io/badge/Python-3.9+-blue.svg)
 ![ML](https://img.shields.io/badge/Machine_Learning-SVC_88.5%25-orange.svg)
 ![License](https://img.shields.io/badge/License-MIT-green.svg)
