@@ -62,10 +62,13 @@ Accuracy	0.885	          0.875	               0.855
 F1-Score	0.939         	0.938	                0.918
 
 🚀 Deployment Options
-python -m streamlit run app.py --server.port 8501
+
+python -m streamlit run app.py --server.port(http://localhost:8502/)
 
 
 📬 Contact:
+
+
  📧 vishalpawar3696@gmail.com
  Github: VishalPawar3696  
 
