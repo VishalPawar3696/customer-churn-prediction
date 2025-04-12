@@ -24,9 +24,16 @@ An interactive machine learning application that predicts customer churn risk wi
 | <img src="Screenshot (46).png" width="400"> | <img src="Screenshot (49).png" width="400"> |
 
 #🛠️ Technical Implementation
+
 ``python
+
+
 #Core ML Components
+
+
 model = joblib.load('model.pkl')  # Trained SVC
+
+
 scaler = joblib.load('scaler.pkl')  # Feature normalization
 
 # Streamlit UI Components
