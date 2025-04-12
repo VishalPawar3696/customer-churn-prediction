@@ -56,9 +56,9 @@ streamlit run app.py
 📊 Model Performance Metrics
 
 
-Metric	  SVC (Selected)	Logistic Regression	Decision Tree
+Metric	  SVC (Selected)	Logistic Regression	Decision Tree Accuracy	0.885	          0.875	               0.855Accuracy	0.885	          0.875	               0.855
 Accuracy	0.885	          0.875	               0.855
-Recall	  1.000	          0.994	               0.921
+Accuracy	0.885	          0.875	               0.855
 F1-Score	0.939         	0.938	                0.918
 
 🚀 Deployment Options
