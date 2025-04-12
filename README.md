@@ -68,6 +68,9 @@ python -m streamlit run app.py --server.port 8501
 📬 Contact:
  📧 vishalpawar3696@gmail.com
  Github: VishalPawar3696
+---------------------------------------------------------------
+ 📧 samarthmohanta7001@gmail.com
+ 
  
  
 
