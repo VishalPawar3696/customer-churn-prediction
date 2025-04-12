@@ -37,35 +37,64 @@ model = joblib.load('model.pkl')  # Trained SVC
 scaler = joblib.load('scaler.pkl')  # Feature normalization
 
 # Streamlit UI Components
+
+
 st.sidebar.radio("Navigation", ["Overview", "Data", "Prediction"])
+
+
 plotly.express.imshow(corr_matrix)  # Interactive heatmap
+
 
 ⚙️ Installation
 
 # Clone repository
+
+
 git clone https://github.com/VishalPawar3696/customer-churn-prediction.git
 
 # Install dependencies
+
+
 pip install -r requirements.txt
 
 # Launch application
+
+
 streamlit run app.py
 
 📂 Project Structure
+
 .
 ├── app.py                  # Main application logic
+
+
 ├── model.pkl               # Serialized SVC model
+
+
 ├── scaler.pkl              # Feature scaler
+
+
 ├── customer_churn_data.csv  # Sample dataset
+
+
 ├── requirements.txt        # Dependencies
+
+
 └── screenshots/            # Documentation assets
+
 
 📊 Model Performance Metrics
 
 
 Metric	  SVC (Selected)	Logistic Regression	Decision Tree
+
+
 Accuracy	0.885	          0.875	               0.855
+
+
 Accuracy	0.885	          0.875	               0.855
+
+
 F1-Score	0.939         	0.938	                0.918
 
 🚀 Deployment Options
